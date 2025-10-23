@@ -1,0 +1,30 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

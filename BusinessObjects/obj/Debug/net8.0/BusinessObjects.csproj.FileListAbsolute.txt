@@ -1,0 +1,22 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

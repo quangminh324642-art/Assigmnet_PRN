@@ -1,0 +1,64 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\refint\WPFApp.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ref\WPFApp.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.exe
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\WPFApp.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.g.resources
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\refint\WPFApp.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ref\WPFApp.dll

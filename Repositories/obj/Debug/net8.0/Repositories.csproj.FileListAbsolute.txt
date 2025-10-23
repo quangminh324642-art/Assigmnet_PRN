@@ -1,0 +1,34 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\ProductManagementDemo\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
